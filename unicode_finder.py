@@ -259,7 +259,7 @@ while True :
         print("Create by Ronnapat Phawaphootanon")
         print(f"\nV.{version}")
         print(f"Unicode Database V.{unicodedata.unidata_version}")
-        print("\nA simple Unicode UCD Finder")
+        print("\nA simple CLI UCD Finder")
         print("===========================================")
         input("Press enter key to exit. ")
     elif main_input == "x" :
