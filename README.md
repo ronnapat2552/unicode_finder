@@ -8,4 +8,5 @@ Unicode Characters Data are taken from <br> Python's `unicodedata` module and [U
  - Show Character Grid
 
 *This program is still in early development and very unstable.*<br>
-*So, use this program at your own risk*
+*So, use this program at your own risk*<br>
+*This program is open source, you can contribute and report bug to this repository*
