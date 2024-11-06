@@ -1,0 +1,6 @@
+Unicode Character Finder              Changelog
+Create by Ronnapat Phawaphootanon
+
+Alpha Stage                06/11/2024 - Present
+V.0.1.0                             06 Nov 2024
+- Internal Development
